@@ -42,12 +42,11 @@ python3 -m pip install pyTelegramBotAPI
 ``` markdown
 python3 -m pip install faker
 ```
-## Автор
-
-Алевтина Винокурова ([@AlevtinaVin](https://t.me/AlevtinaVin))
-
 
 5. Запускаем
 ``` markdown
 python3 card_bot.py
 ```
+## Автор
+
+Алевтина Винокурова ([@AlevtinaVin](https://t.me/AlevtinaVin))
