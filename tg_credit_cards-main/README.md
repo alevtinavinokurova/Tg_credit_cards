@@ -11,17 +11,6 @@
 * Номера карт проходят проверку на алгоритм Луна
 * Можно получить номер карты: Visa, Maestro, Mastercard, JCB
 
-## 🖼 Скриншоты
-
-Стартовое меню:
-
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/bot_menu.png)
-
-После выбора карты Visa:
-
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/visa_card.png)
-
-
 ## 💻 Технологии
 
 * Python
@@ -58,7 +47,3 @@ python3 -m pip install faker
 ``` markdown
 python3 card_bot.py
 ```
-
-## Автор
-
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
